@@ -1,4 +1,4 @@
-🎮 Modpack Server Minecraft - EloAMC
+🎮 Modpack Server Minecraft - EloY-mc
 ====================================
 
 Bienvenue sur le dépôt officiel du Modpack pour le serveur ELOY-mc ! Ce modpack contient tous les mods nécessaires pour jouer sur le serveur avec des performances optimisées et de nouvelles fonctionnalités.
